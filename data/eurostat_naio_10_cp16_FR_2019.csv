@@ -1,0 +1,31 @@
+code_nace,libelle_branche,groupe,transport,achats_produits_petroliers_meur,production_meur,valeur_ajoutee_meur,ebe_revenu_mixte_meur
+H49,Transports terrestres et par conduites,Transports terrestres,oui,7838.25,99127,47039.27,15602.27
+H50,Transports par eau,Transport par eau,oui,2156.35,16970,735.57,-193.43
+H51,Transports aériens,Transport aérien,oui,4933.4,21133,7726.46,2507.46
+H52,Entreposage et services auxiliaires des transports,Entreposage et services auxiliaires des transports,oui,983.37,74866,36057.32,16232.32
+H53,Activités de poste et de courrier,Poste et courrier,oui,100.64,12395,7777.25,346.25
+G45,Commerce et réparation d'automobiles,Commerce et réparation automobile,non,346.54,56242,33194.78,11328.78
+G46,Commerce de gros,Commerce de gros,non,3856.45,238341,102182.45,37493.45
+G47,Commerce de détail,Commerce de détail,non,1309.57,161294.17,89566.63,26883.63
+I,Hébergement et restauration,Hébergement-restauration,non,240.19,121745,63075.15,23226.15
+J58,Édition,Information-communication,non,68.77,29366,15233.03,5848.03
+J59_60,Production audiovisuelle et diffusion,Information-communication,non,327.16,28525,12281.83,5754.83
+J61,Télécommunications,Information-communication,non,380.36,56075,24970.21,15248.21
+J62_63,"Programmation, conseil informatique et services d'information",Information-communication,non,466.94,109436,63755.1,18311.1
+K64,Services financiers,Finance-assurance,non,348,118509,50756,13382
+K65,Assurance,Finance-assurance,non,175,66173,9878,-267
+K66,Activités auxiliaires de services financiers et d'assurance,Finance-assurance,non,75.89,50453,22561.7,6649.7
+L68B,Activités immobilières (hors loyers imputés),Immobilier (hors loyers imputés),non,157.24,152352,106626.25,77007.5
+M69_70,"Activités juridiques, comptables, sièges sociaux, conseil de gestion","Activités spécialisées, scientifiques et techniques",non,912.95,200169,88390.7,19100.7
+M71,"Architecture, ingénierie, contrôle et analyses techniques","Activités spécialisées, scientifiques et techniques",non,266.29,72263,35794.26,8883.26
+M72,Recherche-développement scientifique,"Activités spécialisées, scientifiques et techniques",non,250.04,69199,37064.91,15116.91
+M73,Publicité et études de marché,"Activités spécialisées, scientifiques et techniques",non,267.25,20337,9199.91,1750.91
+M74_75,"Autres activités spécialisées, scientifiques et techniques ; vétérinaires","Activités spécialisées, scientifiques et techniques",non,194.94,18066,7888.22,3300.22
+N77,Activités de location et location-bail,Location (dont véhicules),non,753.44,69443,37662.34,28801.34
+N78,Activités liées à l'emploi,Services administratifs et de soutien,non,73.17,44091,39156.25,2260.25
+N79,"Agences de voyage, voyagistes, réservation",Services administratifs et de soutien,non,118.88,8046,2527.19,776.19
+N80-82,"Sécurité, services aux bâtiments, services administratifs de bureau",Services administratifs et de soutien,non,574.25,99669,47984.47,10290.47
+R90-92,"Arts, spectacles, bibliothèques, musées, jeux de hasard","Arts, spectacles, sports et loisirs",non,299.78,30101,17296.14,5955.14
+R93,"Activités sportives, récréatives et de loisirs","Arts, spectacles, sports et loisirs",non,333.11,27534,15183.34,4644.34
+S95,Réparation d'ordinateurs et de biens personnels et domestiques,Autres services aux ménages,non,27.56,9897,5082.71,1506.71
+S96,Autres services personnels,Autres services aux ménages,non,93.33,18709,12387.95,6143.95
