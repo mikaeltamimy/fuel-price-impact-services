@@ -3,9 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Eurostat](https://img.shields.io/badge/Données-Eurostat-003399?style=for-the-badge)
-![INSEE](https://img.shields.io/badge/Données-INSEE-E4002B?style=for-the-badge)
-
+![Sources](https://img.shields.io/badge/Sources-Eurostat%20%7C%20INSEE-003399?style=for-the-badge)
 
 > Estimation, branche par branche, de ce que coûte la hausse du gazole de 2026 aux entreprises du tertiaire marchand en France.
 
